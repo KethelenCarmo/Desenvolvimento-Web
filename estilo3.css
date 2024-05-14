@@ -1,0 +1,28 @@
+body{
+	background-position: static;
+	background-image: url(logo2.jpg);
+	background-size: 100%, 50%, 50%;
+	background-position: center;
+	background-color: #ADD8E6;
+	background-repeat: no-repeat;
+}
+
+
+div {
+	text-align: justify;
+	padding: 10px;
+	font-family: sans-serif;
+	font-size: 14px;
+	max-width: 300px;
+	margin:200px 380px;
+	background-color: white;
+	opacity: 0.5;
+	border-width: 5px;
+ 	border:9px solid rgb(228, 72, 0)	;
+ 	border-radius: 15px;
+}
+
+h2{
+	font-family: sans-serif;
+	text-align: center;
+}
